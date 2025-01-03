@@ -71,4 +71,4 @@ jupyter notebook insurance-claim-prediction_version2.ipynb
 
 ## Screenshots
 
-![seaborn.axisgrid.PairGrid at 0x2a1399f62a0](/Output SSs/output1.png?raw=true "PairGrid ")
+![seaborn.axisgrid.PairGrid at 0x2a1399f62a0](insurance-claim-prediction_version/Output SSs/output1.png?raw=true "PairGrid ")
